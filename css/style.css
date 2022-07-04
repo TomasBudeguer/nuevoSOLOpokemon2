@@ -2,3 +2,24 @@
   object-fit: cover;
   height: 400px;
 }
+.badgeVerde {
+  background-color: #9bcc50;
+}
+.badgeMorado {
+  background-color: #b97fc9;
+}
+.badgeNaranja {
+  background-color: #fd7d24;
+}
+.badgeRosa {
+  background-color: #f368ba;
+}
+.badgeGris {
+  background-color: #bdb9b8;
+}
+.badgeCeleste {
+  background-color: #59c6e7;
+}
+.bgEvoluciones{
+    background-color: #e2e0e0;
+}
